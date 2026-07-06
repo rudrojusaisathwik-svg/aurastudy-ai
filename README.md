@@ -16,6 +16,7 @@
 
 # 📖 Overview
 <img width="1280" height="764" alt="Image" src="https://github.com/user-attachments/assets/42ecbc02-0c50-4ecf-b23c-b5d409f029b6" />
+<img width="1280" height="764" alt="Image" src="https://github.com/user-attachments/assets/2390fbb4-bb6b-4caf-a34b-8f54d32757da" />
 This project is a **React + Vite Starter Template** that provides a clean and efficient foundation for building modern web applications. It includes React, Vite, Hot Module Replacement (HMR), and an organized project structure to help developers start building immediately.
 
 Whether you're learning React or developing a production-ready application, this template is designed to be fast, simple, and scalable.
