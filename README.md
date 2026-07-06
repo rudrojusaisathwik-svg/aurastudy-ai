@@ -1,4 +1,4 @@
-# ⚛️ React + Vite Starter Template
+#  🤖 AuraStudy AI – Full Multitasking Agent Workspace
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-19-blue?logo=react" alt="React">
